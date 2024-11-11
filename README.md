@@ -13,6 +13,7 @@ B) Download the Dart SDK
 C) Update your PATH
 D) Run Dart Doctor
 
+
 Ansawer is B) Download the Dart SDK
 
 
@@ -22,6 +23,7 @@ A) dart --install
 B) dart --check
 C) dart --verify
 D) dart --version
+
 
 Ansawer is D) dart --version
 
@@ -33,6 +35,7 @@ B) Update your PATH
 C) Run Flutter Doctor
 D) Create a new Flutter project
 
+
 Ansawer is B) Update your PATH
 
 
@@ -42,6 +45,7 @@ A) flutter start
 B) flutter build
 C) flutter run
 D) flutter init
+
 
 Answer is C) flutter run
 
@@ -54,6 +58,7 @@ B) Download Python from the official website
 C) Open the terminal and type sudo apt install python
 D) Install pip manually
 
+
 Answer is B) Download Python from the official website
 
 Which option should you ensure is checked during Python installation on Windows?
@@ -63,6 +68,7 @@ B) Install to a custom directory
 C) Add Python to PATH
 D) Install all available features
 
+
 Answer is C) Add Python to PATH
 
 How do you verify Python installation on any system?
@@ -71,6 +77,7 @@ A) By running python --version
 B) By restarting your computer
 C) By opening the Python installer again
 D) By checking the Programs and Features in Control Panel
+
 
 Answer is A) By running python --version
 
@@ -83,6 +90,7 @@ D) python --install pip
 
 Answer is C) curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 
+
 What is the purpose of a virtual environment in Python?
 
 A) To keep your projects organized in one folder
@@ -91,6 +99,7 @@ C) To separate project dependencies and avoid conflicts
 D) To enhance Python performance on your system
 
  Answer is C) To separate project dependencies and avoid conflicts
+
 
 #MySQL Installation
 
@@ -102,6 +111,7 @@ C) Install MySQL Workbench
 D) Set up a root password
 
 Answer is B) Download MySQL Installer from the official website
+
 
 What setup type should you choose for a custom MySQL installation?
 
